@@ -1,0 +1,10 @@
+Country,Exchange rate / $,"Duty, %","Freight, %","VAT, %",Imported Material Index,Local Material Index,$/hour,Produc- tivity Factor,Location Cost Factor
+Australia,1.42 A$,7,15,20,1.35,1.3,24.8,1.6,1.4
+Brazil,1.10 Real,14,10,18,1.42,1.2,4,1.8,1.1
+China,8.32 Renm,8,10,17,1.35,0.7,3,3,1
+France,5.8 Fr,0,5,18.6,1.236,1.2,19.83,1.2,1.15
+Germany,1.72 DM,0,5,0,1.05,1.15,36.57,1.1,1.2
+Japan,122.5 Yen,3.4,10,3,1.13,1.4,27.3,1,1.35
+Poland,3.4 Zloty,14,10,22,1.46,0.8,10.33,1.7,0.95
+United Arab Emirates,3.67 Dirham,1,10,0,1.11,1,4.03,1.6,0.95
+United Kingdom,0.60 Pound,0,10,17.5,1.275,1.3,42.58,1.2,1.4
