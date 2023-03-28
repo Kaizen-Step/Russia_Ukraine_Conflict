@@ -9,7 +9,7 @@ import plotly.subplots as sp
 theme_plotly = None  # None or streamlit
 
 # Layout
-st.set_page_config(page_title='Agricultural_Prices- Hollywood-Box Office',
+st.set_page_config(page_title='Agricultural_Prices- Russia Ukraine Conflict',
                    page_icon=':bar_chart:📈', layout='wide')
 st.title('🌾 Agricultural Price Index ')
 

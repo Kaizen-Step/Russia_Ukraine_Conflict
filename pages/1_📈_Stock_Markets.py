@@ -9,7 +9,7 @@ import plotly.subplots as sp
 theme_plotly = None  # None or streamlit
 
 # Layout
-st.set_page_config(page_title=' Stock Markets - Hollywood-Box Office',
+st.set_page_config(page_title=' Stock Markets - Russia Ukraine Conflict',
                    page_icon=':bar_chart:📈', layout='wide')
 st.title('📈 Stock Markets')
 

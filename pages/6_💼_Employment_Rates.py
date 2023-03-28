@@ -9,7 +9,7 @@ import plotly.subplots as sp
 theme_plotly = None  # None or streamlit
 
 # Layout
-st.set_page_config(page_title='MPA Rating - Hollywood-Box Office',
+st.set_page_config(page_title='MPA Rating - Russia Ukraine Conflict',
                    page_icon=':bar_chart:📈', layout='wide')
 st.title('💼 Employment Rates')
 
@@ -49,7 +49,7 @@ Furthermore, the instability caused by the conflict has led to increased militar
 st.info(""" ##### In This Employment Rates Section you can find: ####
 
 * Employment Rate In the Unite State
-* Unemployment In Europe
+* Employment In Europe
 
 
 
@@ -65,7 +65,7 @@ st.write(""" ## Employment Rate In the Unite State
 
 st.write(""" The conflict began in 2014, and since then, it has escalated into a full-blown military and diplomatic crisis, affecting many countries around the world.
 One way that the Russia-Ukraine War has affected the employment rate in the United States is through the imposition of economic sanctions. In response to Russia's actions in Ukraine, the United States and the European Union imposed a series of economic sanctions on Russia. These sanctions have targeted key sectors of the Russian economy, such as energy, finance, and defense.
-Numerous American businesses who conduct business with Russia have been harmed as a result of these restrictions. For instance, businesses that export items to Russia have experienced a sharp fall in sales, which has resulted in the loss of jobs in some sectors. Employer possibilities have decreased as a result of the impact on businesses that rely on Russian imports. Yet, these circumstances had no impact on the growth of the US labor force, which, as you can see, was unaffected by the conflict and will continue to increase gradually beyond February 2022.
+Numerous American businesses who conduct business with Russia have been harmed as a result of these restrictions. For instance, businesses that export items to Russia have experienced a sharp fall in sales, which has resulted in the loss of jobs in some sectors. Employer possibilities have decreased as a result of the impact on businesses that rely on Russian imports. Yet, these circumstances had no impact on the growth of the US labor force, which, as you can see, was unaffected by the conflict and continued to increase gradually beyond February 2022.
 
 """)
 # Employment Rate In the Unite State Before and After War
@@ -76,7 +76,7 @@ fig.update_layout(legend_title=None, xaxis_title=None, yaxis_type="log",
 st.plotly_chart(fig, use_container_width=True, theme=theme_plotly)
 
 #####################################################
-st.write(""" ## Unemployment In Europe
+st.write(""" ## Employment In Europe
 """)
 st.write("""The Russia-Ukraine War has had a significant impact on unemployment in Europe, particularly in countries that have strong economic ties with Ukraine or Russia. The conflict has led to a decline in trade and investment, which has resulted in job losses and increased unemployment in many European countries.
 One of the most affected countries is Ukraine itself, where the war has devastated the economy and led to a sharp increase in unemployment. According to the International Labour Organization (ILO), the unemployment rate in Ukraine increased from 7.6% in 2013 to 9.2% in 2015, with more than 1.5 million people losing their jobs.
@@ -87,9 +87,9 @@ Furthermore, the ongoing conflict has also led to a rise in refugees and asylum 
 """)
 # Unemployment In Europe Before and After War
 fig = px.bar(df, x="Date", y="Unemplyment_European ", color="Statues",
-             title='Unemployment In Europe Before and After War')
+             title='Employment In Europe Before and After War')
 fig.update_layout(legend_title=None, xaxis_title=None, yaxis_type="log",
-                  yaxis_title='Unemployment Rate')
+                  yaxis_title='Employment')
 st.plotly_chart(fig, use_container_width=True, theme=theme_plotly)
 
 
@@ -100,10 +100,11 @@ st.text(" \n")
 st.info(""" #### Summary: ####
 
 
-* G-rated movies bring in 10% of all box office earnings in Hollywood and are the least successful
-* The top 10 films on the overall rank list are all PG-13 movies.
+* Numerous American businesses who conduct business with Russia have been harmed as a result of these restrictions  
+* Businesses that export items to Russia have experienced a sharp fall in sales
 * The most profitable group at the box office is PG-13 films, which brought in 41% of all sales
-* While the volume of bridge transactions was significantly influenced  
-* R-rated films account for 20% of global box office and have not had a blockbuster in the past three years
-
+* Circumstances had no impact on the growth of the US labor force, was unaffected by the conflict and continued to increase gradually beyond February 2022.
+* According to the International Labour Organization (ILO), the unemployment rate in Ukraine increased from 7.6% in 2013 to 9.2% in 2015  
+* German industries lost jobs that rely heavily on exports to Russia, such as the automotive and chemical industries  
+* The influx of refugees has contributed to a rise in unemployment in some countries, such as Greece and Italy   
 """)

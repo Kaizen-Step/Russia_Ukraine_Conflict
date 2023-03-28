@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 
 # Layout
-st.set_page_config(page_title='Insight of the Week',
+st.set_page_config(page_title='Russia Ukraine Conflict',
                    page_icon=':bar_chart:📈', layout='wide')
 st.title(' Conclusion 📑 ')
 

@@ -13,7 +13,7 @@ week_days = ['Monday', 'Tuesday', 'Wednesday',
              'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 # Layout
-st.set_page_config(page_title='Aknowledgement - Insight of the Week',
+st.set_page_config(page_title='Aknowledgement - Russia Ukraine Conflict',
                    page_icon=':bar_chart:', layout='wide')
 st.title('🪔 References')
 
@@ -50,7 +50,8 @@ st.write("""
         2.https://www.economist.com/finance-and-economics/2022/02/26/the-economic-consequences-of-the-war-in-ukraine?              
 3. [Federal Reserve Economic DataBase ](https://www.federalreserve.gov/data.htm) (US Inflation, Employment)  
 4. [Euro Stat Economic DataBase ](https://ec.europa.eu/eurostat/web/main/data/database) (Euro Inflation, Unemployment Rate)  
-5. [U.S. BUREAU OF LABOR STATISTICS (](https://www.bls.gov/data/) (Employment)   
-    
+5. https://www.consilium.europa.eu/en/policies/eu-response-ukraine-invasion/impact-of-russia-s-invasion-of-ukraine-on-the-markets-eu-response/
+6. https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20221222-2
+
 
 """)

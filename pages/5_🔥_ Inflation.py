@@ -9,7 +9,7 @@ import plotly.subplots as sp
 theme_plotly = None  # None or streamlit
 
 # Layout
-st.set_page_config(page_title='Inflation - Hollywood-Box Office',
+st.set_page_config(page_title='Inflation - Russia Ukraine Conflict',
                    page_icon=':bar_chart:📈', layout='wide')
 st.title('🔥 Inflation')
 
