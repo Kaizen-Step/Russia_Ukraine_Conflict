@@ -219,7 +219,7 @@ st.info(""" #### Summary: ####
 
 
 
-* The S&P 500 index saw a significant decline after February 24, 2022, as shown in the figure below, but was unable to surpass its 2021 high      
+* The S&P 500 index saw a significant decline after February 24, 2022, but was unable to surpass its 2021 high      
 * The ongoing instability has led to a decrease in investor confidence, resulting in increased volatility in the global stock market, including the S&P 500      
 * The NASDAQ experienced a sharp dip on February 24, 2022, and this battle had a greater impact on the NASDAQ than the S&P 500      
 * Disruption to supply chains can lead to increased costs and decreased profitability, which will negatively impact the performance of companies on the NASDAQ in the long term     
