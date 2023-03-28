@@ -38,7 +38,7 @@ df = Agri_price_europe
 df2 = Agri_price_countires
 df3 = Agri_price_top10
 #################################################################################################
-st.write(""" ### Agricultural Prices Index ##  """)
+st.write(""" ### Ukraine-Russia War Impact On Agricultural Prices Index ##  """)
 
 st.write("""The ongoing conflict between Russia and Ukraine has had a significant impact on the agricultural prices index in Europe. The war has disrupted the supply chain of agricultural products, leading to a decrease in the availability of certain commodities and an increase in their prices.
 One of the main reasons for this is that Ukraine is a major exporter of agricultural products, including wheat, corn, and barley. With the conflict in the east of the country, the production and transportation of these goods have been severely affected. As a result, there has been a reduction in the supply of these products to the European market, leading to higher prices.

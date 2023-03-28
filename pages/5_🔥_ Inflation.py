@@ -38,7 +38,7 @@ df = CPI_EU
 df2 = CPI_US_Monthly
 df3 = STC_US
 #################################################################################################
-st.write(""" ### Inflation ##  """)
+st.write(""" ### Ukraine-Russia War Impact On Inflation ##  """)
 
 st.write("""
 The ongoing conflict between Ukraine and Russia has had significant impacts not only on the region but also on the global economy. One of the key ways this conflict has affected the world economy is through inflation in Europe and the United States.
@@ -59,7 +59,6 @@ st.info(""" ##### In This Studio Section you can find: ####
 * Consumer Price Index (CPI) Europian Region
 * CPI United State
 * Sticky Price Consumer Price Index less Food and Energy United State
-* Reccession 
 
 
 
