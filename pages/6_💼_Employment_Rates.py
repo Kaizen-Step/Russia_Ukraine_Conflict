@@ -39,17 +39,14 @@ df2 = All_employee_Us
 st.write(""" ### Ukraine-Russia War Impact On Employment Rates ##  """)
 
 st.write("""
-The ongoing conflict between Russia and Ukraine has had significant impacts on the global economy, including employment rates in Europe and the United States.
-The conflict has led to economic sanctions imposed by the West against Russia, which has had negative consequences for trade between Russia and the EU and the US. These sanctions have contributed to a decline in economic growth in Russia and have caused many European countries to suffer from lower export levels and higher energy prices.
-Additionally, the crisis has created geopolitical tensions and instability, which have resulted in decreased investor confidence and increased market volatility. This has had a negative impact on the overall global economy, as well as on employment rates in many countries.
-In Europe, the economic sanctions against Russia have hit countries that rely heavily on exports, such as Germany, Italy, and France. These countries have seen a decline in their exports to Russia, which has had negative effects on their economies and employment rates.
+The prolonged conflict between Russia and Ukraine has had a major effect on the world economy, particularly employment rates in Europe and the US.
+In Europe, the economic sanctions against Russia have hit countries that rely heavily on exports, such as Germany, Italy, and France. These countries have seen a decline in their exports to Russia, which has had negative effects on their economies and employment rates.     
 In the United States, the impact of the Russia-Ukraine conflict on employment rates has been less direct, but still significant. The sanctions have affected the global oil market, leading to lower oil prices, which has had negative effects on the US oil industry and employment rates in that sector.
-Furthermore, the instability caused by the conflict has led to increased military spending by many countries, including the US, which has diverted resources away from other sectors and potentially impacted employment rates in those areas.
-Overall, the ongoing conflict between Russia and Ukraine has had significant impacts on the global economy and employment rates in many countries, particularly those that rely heavily on trade or the oil industry. The long-term effects of this crisis remain uncertain, but it is clear that it will continue to have wide-ranging economic and geopolitical consequences.
+Furthermore, the instability caused by the conflict has led to increased military spending by many countries, including the US, which has diverted resources away from other sectors and potentially impacted employment rates in those areas.  
   """)
 
 
-st.info(""" ##### In This MPA Rating Section you can find: ####
+st.info(""" ##### In This Employment Rates Section you can find: ####
 
 * Employment Rate In the Unite State
 * Unemployment In Europe
@@ -66,11 +63,9 @@ st.info(""" ##### In This MPA Rating Section you can find: ####
 st.write(""" ## Employment Rate In the Unite State
 """)
 
-st.write(""" The Russia-Ukraine War has had a significant impact on the global economy, including the employment rate in the United States. The conflict began in 2014, and since then, it has escalated into a full-blown military and diplomatic crisis, affecting many countries around the world.
+st.write(""" The conflict began in 2014, and since then, it has escalated into a full-blown military and diplomatic crisis, affecting many countries around the world.
 One way that the Russia-Ukraine War has affected the employment rate in the United States is through the imposition of economic sanctions. In response to Russia's actions in Ukraine, the United States and the European Union imposed a series of economic sanctions on Russia. These sanctions have targeted key sectors of the Russian economy, such as energy, finance, and defense.
-As a result of these sanctions, many American companies that do business with Russia have been affected. For example, companies that export goods to Russia have seen a significant decline in sales, which has led to job losses in certain industries. Similarly, companies that rely on Russian imports have also been impacted, leading to a decrease in employment opportunities.
-In addition to the impact of economic sanctions, the Russia-Ukraine War has also affected the global energy market. Russia is one of the world's largest producers of oil and natural gas, and the conflict has led to disruptions in the global energy supply chain. This has resulted in higher energy prices, which can have a negative impact on employment in certain industries, such as manufacturing.
-Finally, the Russia-Ukraine War has also had a broader impact on the global economy. The conflict has created uncertainty in financial markets, leading to volatility in stock prices and other financial instruments. This can impact
+Numerous American businesses who conduct business with Russia have been harmed as a result of these restrictions. For instance, businesses that export items to Russia have experienced a sharp fall in sales, which has resulted in the loss of jobs in some sectors. Employer possibilities have decreased as a result of the impact on businesses that rely on Russian imports. Yet, these circumstances had no impact on the growth of the US labor force, which, as you can see, was unaffected by the conflict and will continue to increase gradually beyond February 2022.
 
 """)
 # Employment Rate In the Unite State Before and After War
@@ -88,7 +83,6 @@ One of the most affected countries is Ukraine itself, where the war has devastat
 The war has also had a ripple effect on other European countries, especially those with strong trade and economic ties with Ukraine and Russia. For example, Germany, which is one of Russia's largest trading partners, has been impacted by the economic sanctions imposed on Russia as a result of the war. This has led to job losses in German industries that rely heavily on exports to Russia, such as the automotive and chemical industries.
 In addition to Germany, other European countries that have been affected by the Russia-Ukraine conflict include Italy, France, and the United Kingdom. These countries have seen a decline in trade with Russia and Ukraine, which has resulted in job losses and increased unemployment.
 Furthermore, the ongoing conflict has also led to a rise in refugees and asylum seekers, which has put a strain on the labor markets of many European countries. According to the European Commission, the influx of refugees has contributed to a rise in unemployment in some countries, such as Greece and Italy.
-In conclusion, the Russia-Ukraine War has had a significant impact on unemployment in Europe, with many countries experiencing job losses and increased unemployment due to the decline in trade and investment. The conflict has also contributed to a rise in refugees and asylum seekers, which has put a strain on the labor markets of many European countries.
 
 """)
 # Unemployment In Europe Before and After War

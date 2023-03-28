@@ -52,7 +52,7 @@ Furthermore, the sanctions imposed on Russia by the US and European Union in res
   """)
 
 
-st.info(""" ##### In This Studio Section you can find: ####
+st.info(""" ##### In This Inflation Section you can find: ####
 
 * Consumer Price Index (CPI) Europian Region
 * CPI United State

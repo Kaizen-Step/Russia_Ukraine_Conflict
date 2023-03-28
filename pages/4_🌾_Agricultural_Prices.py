@@ -47,7 +47,7 @@ One of the main reasons for this is that Ukraine is a major exporter of agricult
   """)
 
 
-st.info(""" ##### In This Genre Section you can find: ####
+st.info(""" ##### In This Agricultural Prices Index Section you can find: ####
 
 * Agricultural Prices Index in Europian Nations [Quarter] 
 * Europian Countries Most effected
