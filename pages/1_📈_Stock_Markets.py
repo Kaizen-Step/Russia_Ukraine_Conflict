@@ -87,12 +87,12 @@ st.write("""
 
 st.info(""" ##### In This Stock Market Section you can find: ####
 
-* The Ukraine-Russia indirect Impact on **S&P500** Index
-* The War Will Significantly Affect the **NASDAQ** in the Long Run
-* **Gold** A Safe-Haven Asset
-* The Threat of Disruption To **Crude Oil** Supplies     
-* **EUR/USD** Hedge Against The Riskier Euro  
-* **USD/Rub** The Future of Ruble
+* S&P500 - The Ukraine-Russia indirect Impact on Index
+* NASDAQ - The War Will Significantly Affect the NASDAQ in the Long Run
+* Gold - A Safe-Haven Asset
+* Crude Oil - The Threat of Disruption To Oil Supplies     
+* EUR/USD - Hedge Against The Riskier Euro  
+* USD/Rub - The Future of Ruble
 
 
 
@@ -127,7 +127,7 @@ st.plotly_chart(fig, use_container_width=True, theme=theme_plotly)
 
 ################################################################################################################
 
-st.write(""" ### The War Will Significantly Affect the NASDAQ in the Long Run """)
+st.write(""" ## The War Will Significantly Affect the NASDAQ in the Long Run """)
 st.write(""" Like S&P500 Index the Ukraine-Russia war has had a limited direct impact on the NASDAQ, which is a stock market index that tracks the performance of technology and growth-oriented companies listed on US stock exchanges. However, the indirect impact of the conflict on the global economy can affect the performance of companies listed on the NASDAQ.    
 The ongoing instability has created uncertainty in the global market, and the sanctions imposed on Russia by Western countries ultimately affect the performance of companies listed on the NASDAQ. The magnitude of this effect can be seen in a sharp dip on February 24, 2022 (the day Russia invaded Ukraine's border). This battle had a greater impact on the NASDAQ than the S&P 500, as seen by a mild decline that is currently ongoing.    
 Furthermore, the conflict has created potential risks for technology companies that rely on global supply chains. Any disruption to these supply chains can lead to increased costs and decreased profitability, which can negatively impact the performance of these companies on the NASDAQ in the long term. 
@@ -147,7 +147,7 @@ fig.update_layout(legend_title=None, xaxis_title=None,
 st.plotly_chart(fig, use_container_width=True, theme=theme_plotly)
 ######################################################
 
-st.write(""" ###  Gold A Safe-Haven Asset """)
+st.write(""" ##  Gold A Safe-Haven Asset """)
 
 st.write(""" The Ukraine-Russia war has had a significant impact on the price of gold, which is often seen as a safe-haven asset during times of geopolitical uncertainty. As tensions escalated between Ukraine and Russia, the demand for gold as a safe-haven asset increased, leading to a rise in its price. On March 22, 2022, it reached the record of 2053, and after declining in 2022, it began to rise once more in 2023, The conflict  have heightened economic uncertainty, which has driven many investors to seek safety in safe-haven assets like gold. As investors look to insure against the potential effects of these sanctions on the global economy, the Western nations' sanctions against Russia have also pushed up the price of gold. Also, the fighting has caused the value of the Russian ruble to drop, forcing Russian investors to turn to gold as a store of wealth. This has further fueled the increase in the cost of gold.
 """)
