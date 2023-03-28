@@ -71,17 +71,16 @@ st.write("""    1.https://en.wikipedia.org/wiki/Russo-Ukrainian_War
 
 
 st.text(" \n")
-c1, c2, c3 = st.columns(3)
+c1, c2 = st.columns(2)
 with c1:
     st.info(
         '**Twitter:  [Ludwig.1989](https://flipsidecrypto.xyz/)**', icon="🕊️")
+    st.info(
+        '**Project Supervisor:  [MetricsDao](https://github.com/Kaizen-Step/Russia_Ukraine_Conflict)**', icon="👨🏻‍💼")
 
 
 with c2:
     st.info(
         '**Project Github:  [Russia Ukraine Conflict](https://github.com/Kaizen-Step/Russia_Ukraine_Conflict)**', icon="💻")
-
-
-with c3:
     st.info(
         '**Data Set:  [Federal Reserve Economic DataBase and ....](https://www.federalreserve.gov/data.htm)**', icon="🧠")
