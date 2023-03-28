@@ -76,10 +76,10 @@ with c1:
     st.info(
         '**Twitter:  [Ludwig.1989](https://flipsidecrypto.xyz/)**', icon="🕊️")
     st.info(
-        '**Data Set (1):  [IMDB Box office Mojo (Kaggle)](https://www.kaggle.com/code/jonbown/box-office-mojo-web-scraping-with-python)**', icon="🧠")
+        '**Data Set (1):  [Federal Reserve Economic DataBase](https://www.federalreserve.gov/data.htm)**', icon="🧠")
 
 with c2:
     st.info(
-        '**Project Github:  [Hollywood Box Office](https://github.com/Kaizen-Step/Hollywood_Box_Office_Tragedy)**', icon="💻")
+        '**Project Github:  [Russia Ukraine Conflict](https://github.com/Kaizen-Step/Russia_Ukraine_Conflict)**', icon="💻")
     st.info(
-        '**Data Set (2):  [IMDB Box office Mojo (Kaggle)](https://www.kaggle.com/datasets/thedevastator/hollywood-movies-domestic-lifetime-gross-and-ran?resource=download)**', icon="🧠")
+        '**Data Set (2):  [Euro Stat Economic DataBase](https://ec.europa.eu/eurostat/web/main/data/database)**', icon="🧠")
