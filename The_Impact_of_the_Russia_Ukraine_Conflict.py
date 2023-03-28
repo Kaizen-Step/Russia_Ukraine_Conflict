@@ -65,21 +65,23 @@ st.text(" \n")
 st.write("""   
 #### Sources ####  """)
 st.write("""    1.https://en.wikipedia.org/wiki/Russo-Ukrainian_War      
-        2.https://www.economist.com/finance-and-economics/2022/02/26/the-economic-consequences-of-the-war-in-ukraine?      
+        2.https://www.economist.com/finance-and-economics/2022/02/26/the-economic-consequences-of-the-war-in-ukraine      
 
             """)
 
 
 st.text(" \n")
-c1, c2 = st.columns(2)
+c1, c2, c3 = st.columns(3)
 with c1:
     st.info(
         '**Twitter:  [Ludwig.1989](https://flipsidecrypto.xyz/)**', icon="🕊️")
-    st.info(
-        '**Data Set (1):  [Federal Reserve Economic DataBase](https://www.federalreserve.gov/data.htm)**', icon="🧠")
+
 
 with c2:
     st.info(
         '**Project Github:  [Russia Ukraine Conflict](https://github.com/Kaizen-Step/Russia_Ukraine_Conflict)**', icon="💻")
+
+
+with c3:
     st.info(
-        '**Data Set (2):  [Euro Stat Economic DataBase](https://ec.europa.eu/eurostat/web/main/data/database)**', icon="🧠")
+        '**Data Set:  [Federal Reserve Economic DataBase and ....](https://www.federalreserve.gov/data.htm)**', icon="🧠")
